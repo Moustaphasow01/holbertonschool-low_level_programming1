@@ -1,5 +1,6 @@
-
-/*
+#ifndef FILE_MAIN
+#define FILE_MAIN
+/**
  *This is the the file with all the function s prototype for the c and pointer project
  */
 //function that takes a pointer to an int as parameter and updates the value it points to to 98.
@@ -22,3 +23,4 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 // function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by d
 char *_strcpy(char *dest, char *src);
+#endif
