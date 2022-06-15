@@ -11,7 +11,7 @@ int z, i;
 
 z = 0;
 
-while (str[len] != '\0')
+while (str[z] != '\0')
 {
 z++;
 }
