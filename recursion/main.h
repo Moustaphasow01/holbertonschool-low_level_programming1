@@ -15,4 +15,7 @@ int _strlen_recursion(char *s);
 int factorial(int n);
 /*function that returns the value of x raised to the power of y*/
 int _pow_recursion(int x, int y);
+/*function that returns the natural square root of a number.*/
+int _sqrt_recursion(int n);
+actual_sqrt_recursion(int n, int i);
 #endif
