@@ -1,5 +1,5 @@
 #FILE_MAIN
-#define FILE_HOLBERTON
+#define FILE_MAIN
 
 int _putchar(char c);
 
