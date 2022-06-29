@@ -8,5 +8,7 @@ char *_memset(char *s, char b, unsigned int n);
 void *_calloc(unsigned int nmemb, unsigned int size);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 int *array_range(int min, int max);
-  
+void errors(void);
+int _strlen(char *s);
+int is_digit(char *s);
 #endif
