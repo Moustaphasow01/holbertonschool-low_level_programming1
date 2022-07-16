@@ -1,4 +1,4 @@
-20;10;1c#include <stdlib.h>
+#include <stdlib.h>
 #include "lists.h"
 
 /**
@@ -11,9 +11,9 @@ list_t *temp;
 
 while (head)
 {
-temp = head->next;
-free(head->str);
-free(head);
+	temp = head->next;
+	free(head->str);
+	free(head);
 head = temp;
 }
 }
