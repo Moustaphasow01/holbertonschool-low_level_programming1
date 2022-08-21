@@ -1,1 +1,0 @@
-This is the directory for C - More malloc, free project

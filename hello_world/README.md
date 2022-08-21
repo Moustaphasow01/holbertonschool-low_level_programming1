@@ -1,1 +1,0 @@
-This is tge repository for the hello world project

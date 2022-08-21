@@ -1,1 +1,0 @@
-this is the directory for C - File I/O project 

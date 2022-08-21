@@ -1,1 +1,0 @@
-This is the directory for the C - Doubly linked lists project
